@@ -142,6 +142,3 @@ func TransportAndTally(wall_pattern Sampler, edges []float64, chunk int,
   println(&hist)
   histChan <- hist
 }
-
-
-

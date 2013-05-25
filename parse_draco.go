@@ -135,4 +135,3 @@ func take_spots(n_spots int, words [][]byte) (spots []PDDSpot, words_left [][]by
   }
   return
 }
-
