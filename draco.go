@@ -1,4 +1,4 @@
-package goAvgLaser
+package avgLaser
 
 import "math"
 

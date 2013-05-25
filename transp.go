@@ -1,4 +1,4 @@
-package goAvgLaser
+package avgLaser
 
 import "code.google.com/p/biogo.blas"
 import "math"
